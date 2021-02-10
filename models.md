@@ -1,9 +1,9 @@
-1. #### Correct Model Naming
+0. #### Correct Model Naming
 `It is generally recommended to use singular nouns for model naming, for example: User, Post, Article.
 That is, the last component of the name should be a noun, e.g.: Some New Shiny Item. 
 It is correct to use singular numbers when one unit of a model does not contain information about several objects.`
 
-2. #### Field Naming
+1. #### Field Naming
 `Field names should be all lowercase, using underscores instead of camelCase.`
 ```
 class Person(models.Model):
