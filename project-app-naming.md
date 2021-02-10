@@ -5,6 +5,8 @@
 * my-django-app   ```**Not allowed syntactically**```
 * mydjangoapp  ```**Recommended solution**```
 
+[This image help you to understand](https://github.com/Zeeshan138063/Django-Best-Practices/blob/main/screenshot-www.reddit.com-2021.02.10-13_48_24.png)
+
 2) ####  [Project Naming](https://forum.djangoproject.com/t/project-naming-conventions/339/12).
 ```
 rene@rene-desktop tmp % cd myproject
