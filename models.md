@@ -3,6 +3,14 @@
 That is, the last component of the name should be a noun, e.g.: Some New Shiny Item. 
 It is correct to use singular numbers when one unit of a model does not contain information about several objects.`
 
+2. #### Field Naming
+`Field names should be all lowercase, using underscores instead of camelCase.`
+```
+class Person(models.Model):
+    first_name = models.CharField(max_length=20)
+    last_name = models.CharField(max_length=40)
+ ```
+
 2. #### Relationship Field Naming
 `For relationships such as ForeignKey, OneToOneKey, ManyToMany it is sometimes better to specify a name. Imagine there is a model called Article, 
 — in which one of the relationships is ForeignKey for model User. If this field contains information about the author of the article, 
