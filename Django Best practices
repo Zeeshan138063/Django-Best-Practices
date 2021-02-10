@@ -7,5 +7,6 @@ https://steelkiwi.medium.com/best-practices-working-with-django-models-in-python
 https://medium.com/@balaraju.mme/best-practices-for-django-models-in-python-b47ff6e78966
 
 
-Django Pyhton Coding style
+#### Django Pyhton Coding style 
+`Please follow these coding standards when writing code for inclusion in Django.`
 https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/
