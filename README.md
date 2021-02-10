@@ -1,1 +1,1 @@
-# Django-Practices
+# Django-Best Practices 
